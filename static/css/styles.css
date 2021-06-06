@@ -922,6 +922,7 @@ img {
   line-height: 70px;
   text-transform: capitalize;
   letter-spacing: 4px;
+  text-align: center;
 }
 .home-banner p {
   color: #292929;
